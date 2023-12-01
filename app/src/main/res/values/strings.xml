@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">Login_exercicio</string>
+    <string name="hint_usuario">Usuário</string>
+    <string name="hint_senha">Senha</string>
+    <string name="titulo_form_login">Faça o login</string>
+    <string name="texto_botao_login">Login</string>
+    <string name="Termos_uso">Accept Terms and Conditions</string>
+</resources>
